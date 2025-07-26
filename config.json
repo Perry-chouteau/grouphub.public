@@ -1,0 +1,23 @@
+{
+  "group": [
+    {
+      "name": "Extension",
+      "repos": ["grouphub"]
+    },
+    {
+      "name": "Tools",
+      "repos": ["vsc_ws"]
+    },
+    {
+      "name": "P-E-R-R-Y",
+      "repos": ["Perry", "devkit"]
+    },
+    {
+      "name": "Projet",
+      "repos": ["Perry-chouteau.github.io",  "Kernel_OTP"]
+    },
+    {
+      "name": "Epitech",
+      "repos": ["PLD_Maker", "myHunterV2", "my_hunter", "my_runner", "my_rpg", "my_pushswap"]
+  ]
+}
