@@ -19,5 +19,6 @@
     {
       "name": "Epitech",
       "repos": ["PLD_Maker", "myHunterV2", "my_hunter", "my_runner", "my_rpg", "my_pushswap"]
+    }
   ]
 }
