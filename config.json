@@ -2,7 +2,7 @@
   "group": [
     {
       "name": "Extension",
-      "repos": ["grouphub", "a"]
+      "repos": ["grouphub"]
     },
     {
       "name": "Tools",
